@@ -1,0 +1,68 @@
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+   margin: auto;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 30px;
+  background: #2146A8;
+  color: #BCDBFC;
+}
+
+td {
+  text-align: left;
+  padding-left: 10px;
+  background-color: white;
+}
+
+.centerCon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#invis {
+  color: #BCDBFC;
+  background: #192F63;
+}
+
+body {
+  margin: auto;
+  background-image: url("https://www.morganmckinley.com.hk/sites/morganmckinley.com.hk/files/styles/large/public/Stock%20Market.jpg");
+}
+
+input {
+  width: 25%;
+  padding: 5px;
+}
+
+.infoSpace {
+  background-color: #29428b;
+  width: 80%;
+  border: 3px solid #ABD6FB;
+  margin: 50px auto;
+}
+
+.centAll {
+  width: 90%;
+  margin: auto;
+}
+
+h1, h2, h3, .totalMonthly {
+  color: #ABD6FB;
+}
+
+#delEmpBtn {
+  color: #ABD6FB;
+  background: #192F63;
+  box-shadow: 0 1px 5px #ABD6FB;
+}
+
+#totalMonthly {
+  color: #ABD6FB;
+}

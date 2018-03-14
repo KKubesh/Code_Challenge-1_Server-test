@@ -1,0 +1,24 @@
+{
+  "name": "Code_Challenge-1_Server-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKubesh/Code_Challenge-1_Server-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KKubesh/Code_Challenge-1_Server-test/issues"
+  },
+  "homepage": "https://github.com/KKubesh/Code_Challenge-1_Server-test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
